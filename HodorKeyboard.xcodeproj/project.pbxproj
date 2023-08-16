@@ -16,6 +16,7 @@
 		776425CA2A895B7E0044073A /* KeyboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776425C92A895B7E0044073A /* KeyboardViewController.swift */; };
 		776425CE2A895B7E0044073A /* Hodor.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 776425C72A895B7E0044073A /* Hodor.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		776ACFD62A8D19D60087ECDD /* hodor.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 776ACFD52A8D19D60087ECDD /* hodor.jpeg */; };
+		776ACFD72A8D1BED0087ECDD /* KeyboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776425C92A895B7E0044073A /* KeyboardViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -222,6 +223,7 @@
 				776425B42A895ABD0044073A /* ViewController.swift in Sources */,
 				776425B02A895ABD0044073A /* AppDelegate.swift in Sources */,
 				776425B22A895ABD0044073A /* SceneDelegate.swift in Sources */,
+				776ACFD72A8D1BED0087ECDD /* KeyboardViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
